@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 test
 un nuevo texto mas para subir
 <?php 
 echo "hola mundo";
 ?>
-=======
-test
->>>>>>> parent of c0d0984... nuevo commit
